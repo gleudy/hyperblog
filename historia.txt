@@ -1,6 +1,8 @@
 Esta es una pequena prueba
 
 vamos a ver como funciona git
-Tengo 38 year y naci en montecristi
+Tengo 39 year y naci en montecristi
 
 pero primero vamos a guardar este archivo
+
+yo soy buenmos pero gustoso
